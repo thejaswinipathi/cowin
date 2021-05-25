@@ -1,5 +1,5 @@
 # cowin
-Booking slots
+Slot availability 
 
 This code works only in Mac OS..
 Make sure you have python version 3.5.. I have not tested with other versions..
